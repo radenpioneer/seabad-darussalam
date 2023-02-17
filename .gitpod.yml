@@ -10,5 +10,3 @@ image:
 tasks:
   - init: pnpm install
     command: netlify dev
-
-
